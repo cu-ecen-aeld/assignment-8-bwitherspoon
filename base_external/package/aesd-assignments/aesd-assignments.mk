@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = 91d4f5edaff4ab75a6e3c6ff192d6e3bd88cb972
+AESD_ASSIGNMENTS_VERSION = bd391105a4016bfb5c0b1565701b56f4ef2868b4
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-bwitherspoon.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
